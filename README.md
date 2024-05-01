@@ -1,4 +1,4 @@
-RPG Game
+RPG Game:
 Welcome to our RPG Game! This is a simple text-based role-playing game implemented using HTML, CSS, and JavaScript.
 
 Getting Started
